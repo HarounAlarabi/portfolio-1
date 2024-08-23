@@ -37,7 +37,7 @@ function Navbar() {
               <NavItems title="Home" sectionId="home" />
               <NavItems title="About" sectionId="about" />
               <NavItems title="Projects" sectionId="projects" />
-              <NavItems title="Contact" sectionId="contact" />
+              {/* <NavItems title="Contact" sectionId="contact" /> */}
             </ul>
           </div>
 
